@@ -11,6 +11,7 @@
 8.  **SCORING 2025/26 (CBIT):** Incorporate the new "CBIT" metric in player evaluation. Defenders get +2 pts per 10 defensive actions.
 9.  **DATA DEEP DIVE:** Before recommending a transfer, ALWAYS check Home vs. Away form splits and Head-to-Head (H2H) history.
 10. **TACTICAL INTELLIGENCE:** Monitor manager changes (Man Utd/West Ham).
+11. **AUTOMATED DATA REFRESH:** Before every analysis, run `fetch_gw_stats.py --user harriet` for the latest Gameweek. Update `Harriet_Performance_Tracker.csv` and `Harriet_Player_Performance.csv` to ensure "Weak Link" analysis is based on current xG/xA/xGC data.
 
 **Manager:** Harriet Francis
 **FPL ID:** 2610341
@@ -28,31 +29,56 @@ When leading against a Veteran manager (ID 1618354), you do not win by being "di
 *   **Tactics:** Chases value and fixtures early. He will almost certainly have Haaland/Palmer/Saka.
 *   **Weakness:** He is 5 points behind. He *has* to take risks eventually. Harriet must neutralize those risks.
 
+### 📊 Squad Performance Matrix (GW19-GW20 Data)
+
+_Analysis based on verified 'Harriet_Player_Performance.csv' data._
+
+| Player          | Mins | Pts | xGI (xG+xA) | Verdict        | Notes                                      |
+|:----------------|:-----|:----|:------------|:---------------|:-------------------------------------------|
+| **Thiago**      | 180  | 19  | 1.94        | ☢️ **NUCLEAR** | 3 Goals in GW20 (Bench). Must start GW21.  |
+| **Thiaw**       | 180  | 21  | 0.68        | 🦸 **Hero**    | 17pts in GW20. Unbenchable form.           |
+| **Garner**      | 180  | 20  | 0.98        | 💎 **Gem**     | 16pts in GW19. Massive differential.       |
+| **Palmer**      | 152  | 9   | 1.04        | 🛡️ **Steady**  | High xGI. The points will come.            |
+| **Haaland**     | 180  | 4   | 0.79        | 🥶 **Cold**    | Robot malfunction? Keep Captaincy on him.  |
+| **Wilson**      | 168  | 8   | 0.60        | ✅ **Useful**   | Solid enabler.                             |
+| **Van Hecke**   | 180  | 6   | 0.13        | 📉 **Sell**    | Low ceiling. Correct decision to sell.     |
+
 ---
 
 ## 🛠️ GW21 Battle Plan (Tuesday Deadline)
 **Fantasy Hub AI Rating:** (Check https://www.fantasyfootballhub.co.uk/ai-team-rating)
 
-### **The "No-Hit" Priority Move**
-*   **Transfer:** **SELL Van Hecke ➡️ Lewis Hall (NEW)**.
-*   **Rationale:** The Veteran will likely identify Hall as the best Newcastle defensive entry for their Leeds (A) fixture. By buying Hall, Harriet mirrors his likely move and protects her 5-point lead.
+### **The Completed Priority Move**
+*   **Transfer:** **SELL J.Timber ➡️ Gabriel (ARS)**.
+*   **Rationale:** Secures the most nailed and goal-threatening Arsenal defender. Gabriel's price is rising, and this move mirrors the elite "Veteran" manager who likely already has Arsenal defensive coverage.
+
+### **The Starting XI Strategy (3-5-2)**
+*   **GK:** **Petrović** (vs TOT).
+*   **DEF:** **Gabriel** (vs LIV), **Thiaw** (vs NFO), **Van Hecke** (vs MCI).
+*   **MID:** **Saka**, **Palmer**, **Foden**, **Thiago**, **Garner**.
+*   **FWD:** **Haaland (C)**, **DCL**.
+*   **Bench:** Dúbravka, **Wilson** (1st Sub), Heaven, O'Reilly.
+
+**Key Decision:** **Bench Wilson (vs CHE).**
+With Everton playing Wolves (Home) and Brentford playing Sunderland (Home), **DCL**, **Garner**, and **Thiago** (fresh off a hat-trick) all have superior fixtures to Wilson.
 
 ### **The Captaincy Anchor**
 *   **Captain:** **Erling Haaland**.
-*   **Why:** Do NOT differential captain Palmer. If the Veteran captains Haaland and he hauls, the league lead is gone. Stick to the robot.
+*   **Why:** Standard "Safety First" play for the leader.
 
 ---
 
 ## 📊 The "Title Defense" Roadmap
 
 **GW21 (Jan 7):**
-*   **Move:** Van Hecke ➡️ Lewis Hall.
+*   **Move:** J.Timber ➡️ Gabriel (Completed).
 *   **Captain:** Haaland.
-*   **Note:** Bench Wilson vs Liverpool. Do not take a hit to remove him.
+*   **Note:** Watch Lewis Hall's performance; he is the next defensive target.
 
 **GW22 (Jan 17):**
-*   **The "Price Shield" Move:** **SELL Timber ➡️ Gabriel (ARS)**.
-*   **Rationale:** Gabriel's price is rising (£6.6m). Mirroring the Veteran's likely Arsenal double-up (Gabriel/Saka) is essential before the Forest game.
+*   **Potential Move:** Van Hecke ➡️ Lewis Hall.
+*   **Note:** Focus on stabilizing the bench. Check Wilson's fitness.
+
 
 **GW23 (Jan 24):**
 *   **AFCON Watch:** Check if the Veteran is buying **Mbeumo** or **Salah** back. Match his move if funds permit.

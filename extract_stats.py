@@ -24,8 +24,8 @@ targets = [
     "Dubravka"
 ]
 
-print(f"{'Name':<20} | {'Team':<5} | {'Pos':<5} | {'Cost':<5} | {'Pts':<5} | {'Form':<5} | {'xG':<5} | {'xA':<5} | {'xGc':<5} | {'CS':<3}")
-print("-" * 105)
+print(f"{'Name':<20} | {'Team':<5} | {'Pos':<5} | {'Cost':<5} | {'Pts':<5} | {'Form':<5} | {'xG':<5} | {'xA':<5} | {'xGc':<5} | {'CS':<3} | {'Min':<5} | {'G':<3} | {'A':<3}")
+print("-" * 125)
 
 found_ids = []
 
@@ -41,4 +41,4 @@ for p in players:
         pos = get_position(p['element_type'])
         cost = p['now_cost'] / 10.0
         
-        print(f"{p['web_name']:<20} | {team_name:<5} | {pos:<5} | £{cost}m | {p['total_points']:<5} | {p['form']:<5} | {p['expected_goals']:<5} | {p['expected_assists']:<5} | {p['expected_goals_conceded']:<5} | {p['clean_sheets']:<3}")
+        print(f"{p['web_name']:<20} | {team_name:<5} | {pos:<5} | £{cost}m | {p['total_points']:<5} | {p['form']:<5} | {p['expected_goals']:<5} | {p['expected_assists']:<5} | {p['expected_goals_conceded']:<5} | {p['clean_sheets']:<3} | {p['minutes']:<5} | {p['goals_scored']:<3} | {p['assists']:<3}")
