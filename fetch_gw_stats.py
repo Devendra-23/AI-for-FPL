@@ -64,21 +64,123 @@ def fetch_player_history(player_id):
     url = f"https://fantasy.premierleague.com/api/element-summary/{player_id}/"
     return fetch_json(url)
 
-def update_player_performance_csv(filename, gw, player_stats_list):
-    """Saves granular player-by-player stats to a separate CSV."""
-    # Append suffix to user's main CSV name or use a dedicated one
+def update_player_performance_csv_horizontal(filename, gw, player_stats_list):
+    """
+    Saves player stats in a horizontal format (Name | GW19_Pts | GW19_xG | ... | GW20_Pts ...).
+    Handles migration from old vertical format automatically.
+    """
     player_filename = filename.replace('Performance_Tracker.csv', 'Player_Performance.csv')
     
-    file_exists = os.path.exists(player_filename)
+    data_store = {} # { "PlayerName": { gw_int: { "Status": ..., "Min": ... } } }
+    all_gws = set()
+
+    # Metrics we track per GW
+    metrics = ["Status", "Min", "Pts", "xG", "xA", "xGC", "G", "A", "CS", "Cost"]
+
+    # 1. Read existing data
+    if os.path.exists(player_filename):
+        with open(player_filename, 'r') as f:
+            reader = csv.reader(f)
+            try:
+                header = next(reader)
+            except StopIteration:
+                header = []
+
+            if "Gameweek" in header and "Name" in header:
+                # Old Vertical Format detected
+                # Header: Gameweek, Name, Status, Min, Pts, xG, xA, xGC, G, A, CS
+                try:
+                    idx_gw = header.index("Gameweek")
+                    idx_name = header.index("Name")
+                    # Map other columns
+                    col_map = {m: header.index(m) for m in metrics if m in header}
+                    
+                    for row in reader:
+                        if not row: continue
+                        p_name = row[idx_name]
+                        p_gw = int(row[idx_gw])
+                        all_gws.add(p_gw)
+                        
+                        if p_name not in data_store: data_store[p_name] = {}
+                        if p_gw not in data_store[p_name]: data_store[p_name][p_gw] = {}
+
+                        for m, idx in col_map.items():
+                            data_store[p_name][p_gw][m] = row[idx]
+                except ValueError:
+                    print("Warning: Could not parse old vertical CSV format completely.")
+            
+            elif "Name" in header:
+                # New Horizontal Format assumed
+                # Header: Name, GW19_Status, GW19_Min, ...
+                for row in reader:
+                    if not row: continue
+                    p_name = row[0]
+                    if p_name not in data_store: data_store[p_name] = {}
+                    
+                    # Parse columns
+                    for i, col_name in enumerate(header[1:], 1):
+                        if "_" in col_name:
+                            parts = col_name.split("_")
+                            # Format: GW19_Status
+                            if parts[0].startswith("GW"):
+                                try:
+                                    g_num = int(parts[0].replace("GW", ""))
+                                    metric = parts[1]
+                                    all_gws.add(g_num)
+                                    
+                                    if g_num not in data_store[p_name]: data_store[p_name][g_num] = {}
+                                    if i < len(row):
+                                        data_store[p_name][g_num][metric] = row[i]
+                                except ValueError:
+                                    pass
+
+    # 2. Merge new data
+    # player_stats_list items: [Name, Status, Min, Pts, xG, xA, xGC, G, A, CS, Cost]
+    # Indices corresponding to metrics list:
+    # Status=1, Min=2, Pts=3, xG=4, xA=5, xGC=6, G=7, A=8, CS=9
     
-    with open(player_filename, 'a', newline='') as f:
-        writer = csv.writer(f)
-        if not file_exists:
-            writer.writerow(["Gameweek", "Name", "Status", "Min", "Pts", "xG", "xA", "xGC", "G", "A", "CS"])
+    current_gw = int(gw)
+    all_gws.add(current_gw)
+    
+    for p in player_stats_list:
+        p_name = p[0]
+        if p_name not in data_store: data_store[p_name] = {}
+        if current_gw not in data_store[p_name]: data_store[p_name][current_gw] = {}
         
-        for p in player_stats_list:
-            writer.writerow([gw] + p)
-    print(f"Detailed player stats saved to {player_filename}")
+        data_store[p_name][current_gw]["Status"] = p[1]
+        data_store[p_name][current_gw]["Min"] = p[2]
+        data_store[p_name][current_gw]["Pts"] = p[3]
+        data_store[p_name][current_gw]["xG"] = p[4]
+        data_store[p_name][current_gw]["xA"] = p[5]
+        data_store[p_name][current_gw]["xGC"] = p[6]
+        data_store[p_name][current_gw]["G"] = p[7]
+        data_store[p_name][current_gw]["A"] = p[8]
+        data_store[p_name][current_gw]["CS"] = p[9]
+        data_store[p_name][current_gw]["Cost"] = p[10]
+
+    # 3. Write back in Horizontal Format
+    sorted_gws = sorted(list(all_gws))
+    
+    # Build Header
+    new_header = ["Name"]
+    for g in sorted_gws:
+        for m in metrics:
+            new_header.append(f"GW{g}_{m}")
+            
+    with open(player_filename, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(new_header)
+        
+        # Sort players by name for consistency
+        for p_name in sorted(data_store.keys()):
+            row = [p_name]
+            for g in sorted_gws:
+                stats = data_store[p_name].get(g, {})
+                for m in metrics:
+                    row.append(stats.get(m, "-")) # Fill missing with "-"
+            writer.writerow(row)
+
+    print(f"Detailed player stats saved to {player_filename} (Horizontal Format)")
 
 def update_tracker_csv(filename, gw, total_points, total_xg, total_xa, total_xgc):
     """Updates the team performance tracker CSV with aggregated stats."""
@@ -155,8 +257,8 @@ def main():
     csv_file = user_config['csv']
 
     print(f"\nFetching stats for User: {args.user.upper()} (ID: {team_id}), Gameweek {args.gw}...\n")
-    print(f"{'Name':<20} | {'Min':<5} | {'Pts':<5} | {'xG':<5} | {'xA':<5} | {'xGc':<5} | {'G':<3} | {'A':<3} | {'CS':<3}")
-    print("-" * 80)
+    print(f"{'Name':<20} | {'Min':<5} | {'Pts':<5} | {'xG':<5} | {'xA':<5} | {'xGc':<5} | {'G':<3} | {'A':<3} | {'CS':<3} | {'Cost'}")
+    print("-" * 90)
 
     # Load static data
     try:
@@ -189,6 +291,7 @@ def main():
         # Get Player Name
         p_static = fetch_player_details(pid, players_static)
         name = p_static['web_name'] if p_static else str(pid)
+        current_cost = p_static['now_cost'] / 10.0 if p_static else 0.0
 
         # Fetch history
         history_data = fetch_player_history(pid)
@@ -218,16 +321,17 @@ def main():
             if multiplier == 2: status_symbol = "Capt"
             if multiplier == 3: status_symbol = "TC"
 
-            print(f"{name:<16} {status_symbol:<5} | {gw_stats['minutes']:<5} | {pts:<5} | {xg:<5.2f} | {xa:<5.2f} | {xgc:<5.2f} | {gw_stats['goals_scored']:<3} | {gw_stats['assists']:<3} | {gw_stats['clean_sheets']:<3}")
+            print(f"{name:<16} {status_symbol:<5} | {gw_stats['minutes']:<5} | {pts:<5} | {xg:<5.2f} | {xa:<5.2f} | {xgc:<5.2f} | {gw_stats['goals_scored']:<3} | {gw_stats['assists']:<3} | {gw_stats['clean_sheets']:<3} | £{current_cost}m")
             
             # Add to list for CSV saving
             player_stats_to_save.append([
                 name, status_symbol, gw_stats['minutes'], pts, 
                 f"{xg:.2f}", f"{xa:.2f}", f"{xgc:.2f}", 
-                gw_stats['goals_scored'], gw_stats['assists'], gw_stats['clean_sheets']
+                gw_stats['goals_scored'], gw_stats['assists'], gw_stats['clean_sheets'],
+                f"{current_cost}"
             ])
         else:
-            print(f"{name:<20} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<3} | {'-':<3} | {'-':<3}")
+            print(f"{name:<20} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<3} | {'-':<3} | {'-':<3} | £{current_cost}m")
         
         time.sleep(0.05)
 
@@ -235,7 +339,8 @@ def main():
     print(f"TEAM TOTALS (Active) |       | {team_total_points:<5} | {team_total_xg:<5.2f} | {team_total_xa:<5.2f} | {team_total_xgc:<5.2f} |     |     |    ")
     
     update_tracker_csv(csv_file, args.gw, team_total_points, team_total_xg, team_total_xa, team_total_xgc)
-    update_player_performance_csv(csv_file, args.gw, player_stats_to_save)
+    # Use new horizontal update function
+    update_player_performance_csv_horizontal(csv_file, args.gw, player_stats_to_save)
 
 if __name__ == "__main__":
     main()

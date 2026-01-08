@@ -18,6 +18,7 @@ _The AI MUST follow these rules before every recommendation:_
 9.  **TACTICAL INTELLIGENCE:** Monitor manager changes (Man Utd/West Ham).
 10. **PLAYER PERSISTENCE:** Remember: **Ollie Watkins** is the primary striker target (£9.0m), **Alexander Isak** is INJURED until March/April 2026, **Nicolas Jackson** is at Bayern Munich (Avoid).
 11. **AUTOMATED DATA REFRESH:** Before every analysis, run `fetch_gw_stats.py --user dev` for the latest Gameweek. Update `Dev_Performance_Tracker.csv` and `Dev_Player_Performance.csv` to ensure "Weak Link" analysis is based on current xG/xA/xGC data.
+12. **PRICE CHECK AUTOMATION:** Before recommending transfers, ALWAYS run `fetch_gw_stats.py` to get the latest `Cost` data in `[User]_Player_Performance.csv`. Use this actual data for budget calculations.
 
 ---
 
