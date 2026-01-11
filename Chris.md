@@ -72,8 +72,9 @@ Chris has 3 FTs. Instead of using all three, we will address the two most critic
 *   **Goal:** Replace the two players with the lowest expected minutes/points.
 
 **1. The Attack Fix (Priority 1)**
-*   **Move:** **SELL Woltemade ➡️ Raúl Jiménez (FUL) / Wissa (BRE).**
-*   **Why:** Woltemade is a bench-warmer. Raúl or Wissa are focal points of their attacks. This ensures 11 active starters.
+*   **Move:** **SELL Woltemade ➡️ Thiago (BRE).**
+*   **Why:** **Thiago (£7.0m)** is the clear standout alternative to Raúl. He has superior form (5.6) and 108 total points (vs Raúl's 62). He avoids Fulham's difficult fixture run while offering better long-term value.
+    *   *Backup Option:* **Evanilson (BOU, £7.0m)** if you need Bournemouth coverage.
 
 **2. The Defense Fix (Priority 2)**
 *   **Move:** **SELL Nallo ➡️ Antonee Robinson (FUL) / Milenković (NFO).**
@@ -98,6 +99,39 @@ By GW25, Chris's squad will transform from a "broken" 10-man team to a "solid" 1
 *   **FWD:** Haaland, DCL, Raúl
 
 **Result:** A team capable of green arrows every week without relying on luck.
+
+---
+
+## 🃏 GW22 Wildcard Proposal: The "Form Disruptor"
+
+**Status:** Ready for Activation
+**Bank:** **£1.8m ITB** (Chris Total Value: £100.3m)
+**Formation:** 4-4-2 / 3-4-3 (Rotation Flexible)
+
+### **The Squad**
+| Position | Player | Team | Price | Form | Role |
+|:---|:---|:---|:---|:---|:---|
+| **GK** | **Kelleher** | BRE | £4.5m | 6.8 | **Essential.** Top form keeper. |
+| **GK** | **Dúbravka** | BUR | £4.0m | 3.3 | Budget cover. |
+| **DEF** | **Gabriel** | ARS | £6.7m | 5.2 | Premium fixture target. |
+| **DEF** | **Timber** | ARS | £6.3m | 4.3 | Arsenal double-up. |
+| **DEF** | **Hall** | NEW | £5.3m | 3.7 | Attacking threat. |
+| **DEF** | **Mukiele** | SUN | £4.4m | 6.0 | Massive value/form pick. |
+| **DEF** | **Alderete** | SUN | £4.1m | 4.5 | High-form bench security. |
+| **MID** | **Palmer** | CHE | £10.4m| 3.8 | Premium fixture target. |
+| **MID** | **Rice** | ARS | £7.3m | 6.3 | **Essential.** Points king. |
+| **MID** | **Rogers** | AVL | £7.6m | 6.7 | Form king. |
+| **MID** | **Wilson** | FUL | £5.8m | 6.7 | Differential form gem. |
+| **MID** | **Gudmundsson**| EVE | £3.8m | 2.7 | Enabler. |
+| **FWD** | **Haaland** | MCI | £15.1m| 6.8 | Permacap. |
+| **FWD** | **Gakpo** | LIV | £7.3m | 1.8 | High-ceiling punt. |
+| **FWD** | **Kroupi Jr** | BOU | £4.6m | 3.2 | Bench enabler. |
+
+### **Strategic Rationale**
+1.  **Template Bashing:** Replaces underperforming high-ownership picks (Saka, Foden, Mbeumo, Salah) with the actual **Form Kings** of Jan 2026 (Rice, Wilson, Rogers).
+2.  **Arsenal Triple-Up:** Capitalizes on Arsenal's easiest fixture run of the season (Gabriel, Timber, Rice).
+3.  **Financial Warchest:** Leaves **£1.8m in the bank**. This allows Chris to jump on any January transfer window bandwagon or upgrade Gakpo/Kroupi effortlessly.
+4.  **Rotation Immunity:** Every bench player (Wilson, Mukiele, Alderete) has high form and 90-minute security.
 
 ---
 

@@ -76,8 +76,9 @@ With Everton playing Wolves (Home) and Brentford playing Sunderland (Home), **DC
 *   **Note:** Watch Lewis Hall's performance; he is the next defensive target.
 
 **GW22 (Jan 17):**
-*   **Potential Move:** Van Hecke ➡️ Lewis Hall.
-*   **Note:** Focus on stabilizing the bench. Check Wilson's fitness.
+*   **Confirmed Plan:** **SELL O'Reilly (£5.3m) ➡️ Mukiele (£4.3m)**.
+*   **Why:** This is the priority move. Mukiele is the highest-form defender available under £5.0m. This move solidifies the bench, fixes the "O'Reilly weak link," and banks £1.0m in cash for the GW23 push.
+*   **Note:** Keep an eye on Wilson's minutes; he is the next likely candidate for a swap if his form drops.
 
 
 **GW23 (Jan 24):**

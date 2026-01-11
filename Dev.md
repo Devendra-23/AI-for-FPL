@@ -22,51 +22,90 @@ _The AI MUST follow these rules before every recommendation:_
 
 ---
 
-## 🏆 Current Squad State (GW21 Preview)
+## 🏆 Current Squad State (GW21 Review)
 
-**Fantasy Hub AI Rating:** **92%** (Verified Jan 5)
 
-- **GK:** Pickford
-- **DEF:** Timber, Van Hecke, Gabriel, Alderete, Gudmundsson
-- **MID:** Saka, Foden, Rogers, Cunha (MUN - Midfielder)
-- **FWD:** Haaland (C), DCL, Bowen (FWD)
-- **Bench:** Dúbravka, Devenny.
 
-**CRITICAL ISSUE:** Zero playable defenders for GW21. However, 92% AI Rating confirms your "Attack 7" is strong enough to carry the weight.
+**Fantasy Hub AI Rating:** **92%** (Verified Jan 8)
 
-### 📊 Squad Performance Matrix (GW19-GW20 Data)
+**GW21 Score:** 48 Pts (vs 3.56 xG) | **Team Value:** £102.4m
+
+
+
+- **GK:** Pickford (3)
+
+- **DEF:** Timber (6), Gabriel (6), Alderete (1), Rogers (3 - played DEF?)
+
+- **MID:** Saka (3), Foden (2), Cunha (2), Rogers (3)
+
+- **FWD:** Haaland (C) (6), DCL (8), Bowen (2)
+
+- **Bench:** Dúbravka (3), Devenny (3), Van Hecke (3), Gudmundsson (0)
+
+
+
+**Status:** A steady GW21 with 48 points. The xG of 3.56 suggests you were unlucky not to score more (Haaland 1.53 xG -> 6 pts).
+
+
+
+### 📊 Squad Performance Matrix (GW19-GW21 Data)
+
+
 
 _Analysis based on verified 'Dev_Player_Performance.csv' data._
 
-| Player          | Mins | Pts | xGI (xG+xA) | Verdict        | Notes                                      |
-|:----------------|:-----|:----|:------------|:---------------|:-------------------------------------------|
-| **Haaland**     | 180  | 4   | 0.79        | 🥶 **Cold**    | Massive underperformance. Keep faith.      |
-| **Gabriel**     | 90   | 9   | 0.18        | 🛡️ **Anchor**  | Immediate impact. Essential hold.          |
-| **Cunha**       | 180  | 11  | 0.31        | 🔥 **Hot**     | Ticking over nicely.                       |
-| **Pickford**    | 180  | 11  | N/A         | 🎢 **Volatile**| High points but huge xGC (3.95). Risky.    |
-| **Foden**       | 180  | 5   | 0.78        | ⚠️ **Concern** | High xGI but low output. Watchlist for GW23 sell. |
-| **Saka**        | 105  | 10  | 0.65        | 🛡️ **Anchor**  | Reliable despite lower minutes in GW20.    |
-| **Van Hecke**   | 180  | 6   | 0.13        | 😐 **Solid**   | Doing his job. Sell in GW23.               |
-| **Rogers**      | 90   | 5   | 0.39        | 📈 **Emerging**| Great underlying numbers for price.        |
+
+
+| Player          | Mins (Last 3) | Avg Pts | Avg xG | Verdict        | Notes                                      |
+
+|:----------------|:--------------|:--------|:-------|:---------------|:-------------------------------------------|
+
+| **Haaland**     | 270           | 3.3     | 0.76   | 🥶 **Cold**    | Underlying stats (1.53 xG in GW21) suggest goals are coming. HOLD. |
+
+| **DCL**         | 196           | 3.7     | 0.40   | 🦊 **Sneaky**  | 8 pts in GW21. Increasing value before sale. |
+
+| **Bowen**       | 180           | 3.0     | 0.14   | ❌ **Sell**    | **PRIORITY OUT.** Poor xG, high price (£7.7m). |
+
+| **Alderete**    | 172           | 1.0     | 0.09   | ⚠️ **Risk**    | Poor returns. Weak link in defence. |
+
+| **Foden**       | 252           | 2.3     | 0.15   | 📉 **Drop**    | £8.8m is too much for 2 pts/game. Upgrade fund. |
+
+| **Saka**        | 177           | 4.3     | 0.22   | 🛡️ **Anchor**  | Reliable. Keep. |
+
+| **Rogers**      | 270           | 3.7     | 0.19   | 😐 **Hold**    | Consistent starter, decent enabler. |
+
+
 
 ---
 
-## 🎯 The 4-4-2 Transition Plan (GW21-25)
 
-**Objective:** Shift structure to 4-4-2 to maximize CBIT points and the Haaland/Watkins (£9.0m) double-up.
 
-### **Phase 1: The Accumulation (GW21-22)**
+## 🎯 The 4-4-2 Transition Plan (GW22-25)
 
-- **GW21:** **ROLL TRANSFER** (2 FTs Available). Diamond hands.
-- **GW22:** **ROLL TRANSFER** (3 FTs Available).
-- **Strategy:** Damage limitation. Rely on the "92% Rated" attack. The goal is to enter GW23 with **4 Free Transfers**.
 
-### **Phase 2: The GW23 "Power Shift" (4 FTs)**
 
-- **SELL:** Phil Foden, Jarrod Bowen (FWD), Van Hecke, DCL.
-- **BUY:** **Cole Palmer**, **Bryan Mbeumo**, **Lewis Hall**, **Ollie Watkins**.
-- **Result:** You complete the structural shift in a single week without taking a hit (-0).
+**Objective:** Execute the "Power Shift" in GW23 to fix the Bowen/Foden issues and capitalize on the 3 accumulated Free Transfers.
 
+
+
+### **Phase 1: The Patience (GW22)**
+
+
+
+- **GW21:** ✅ **ROLLED** (Successfully banked FT).
+
+- **GW22:** **ROLL TRANSFER** (Aiming for 3 FTs in GW23).
+
+- **Strategy:** Hold the line. Do NOT sell Bowen yet unless price drops >£0.2m imminent. We need the 3 FTs to restructure without hits.
+
+
+
+### **Phase 2: The GW23 "Power Shift" (3 FTs)**
+
+- **OUT:** **Cunha (£8.2m)**, **Foden (£8.8m)**, **Bowen (£7.7m)**.
+- **IN (Target):** **Enzo (CHE, £6.4m)**, **Palmer (CHE, £10.4m)**, **Thiago (BRE, £7.0m)**.
+- **Immediate Move (GW22 - Optional):** **Cunha ➡️ Enzo**.
+    - **Why?** Cunha faces MCI/ARS (Diff 4/5). Enzo faces BRE/CRY/WHU (Diff 3/3/2). Saves £1.8m.
 
 ### **Phase 3: The 4-4-2 Strike (GW24-25)**
 
@@ -76,39 +115,14 @@ _Analysis based on verified 'Dev_Player_Performance.csv' data._
 
 ---
 
-## 📈 The "God Squad" Formation (GW25)
-
-```text
-           [Haaland] [Watkins]
-[Saka] [Palmer] [Mbeumo] [Rogers]
-[Hall] [Gabi] [Tarkowski] [Robinson]
-           [Pickford]
-```
-
-| Position  | Player        | Strategy                                                                              |
-| :-------- | :------------ | :------------------------------------------------------------------------------------ |
-| **GK**    | Pickford      | Target: Save Bonus.                                                                   |
-| **DEF**   | **CBIT Core** | Hall (Attacking), Gabriel (Set-pieces), Tarkowski (Blocks), Robinson (Interceptions). |
-| **MID**   | **The Big 3** | Saka, Palmer, Mbeumo. All on penalties/set-pieces.                                    |
-| **FWD**   | **Elite Duo** | Haaland + Watkins. Proven PL goal output.                                             |
-| **Bench** | **Cunha**     | The ultimate 1st sub to cover rotation.                                               |
-
-## 🛡️ Strategic Memories
-
-- **Savinho:** Avoid due to Semenyo/rotation risk.
-- **Cunha:** He is a Midfielder at Man Utd. His benching in GW21 is tactical, not a lack of quality.
-- **Long Term:** This structure is designed to catch the Top 1K by GW30.
-
----
-
-## 🔭 The "Diamond Hands" Watchlist (GW21-23)
+## 🔭 The "Diamond Hands" Watchlist (GW22-23)
 
 _Tracking potential targets for the GW23 Power Shift._
 
 | Player | Team | Price | Role | Status | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Marcus Tavernier** | BOU | £5.6m | **Talisman** | 🚨 **MONITOR** | **Kluivert OUT** (Knee surgery, months). **Semenyo LEAVING** (Man City medical). Tavernier inherits corners, free kicks, and likely **PENALTIES**. |
-| **Lewis Hall** | NEW | £4.5m | **CBIT Gem** | ✅ **BUY GW23** | High interceptions/recoveries. Perfect budget enabler. |
-| **Antonee Robinson** | FUL | £4.7m | **CBIT King** | ✅ **BUY GW25** | The best defender for the new scoring system. Set & Forget. |
-| **Ollie Watkins** | AVL | £8.7m | **Premium** | ✅ **BUY GW23** | The Haaland partner. Consistent returns. |
-| **Cole Palmer** | CHE | £10.4m | **Essential** | ✅ **BUY GW23** | The highest ceiling midfielder. Must have. |
+| **Enzo** | CHE | £6.4m | **Cunha Rep** | 🔥 **BUY NOW** | 92 Pts. Amazing fixtures (BRE, CRY, WHU). Saves £1.8m. |
+| **Thiago** | BRE | £7.0m | **Bowen Rep** | 🔥 **Top Pick** | Outscoring Bowen by 20pts. £0.7m cheaper. |
+| **Raúl Jiménez** | FUL | £6.2m | **Budget FWD** | 💰 **Value** | Enables the Palmer upgrade. Good form (4.7). |
+| **Cole Palmer** | CHE | £10.4m | **Essential** | ✅ **BUY GW23** | The Foden replacement. Non-negotiable. |
+| **Lewis Hall** | NEW | £5.3m | **CBIT Gem** | ✅ **BUY GW23** | High xA potential. |
