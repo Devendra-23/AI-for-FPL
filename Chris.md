@@ -21,75 +21,41 @@ _The AI MUST follow these rules before every recommendation:_
 
 ---
 
-## 🏆 Current Squad State (GW23 Prep)
+## 🏆 Current Squad State (GW24 Prep)
 
-**GW22 Final Score:** **52 pts**.
-**Verdict:** Strong week. **Palmer (9)** and **Hall (9)** led the way.
-**Surprise:** **Kroupi.Jr** played 71 minutes! (2 pts). He is NOT dead wood.
+**GW23 Final Score:** **36 pts**.
+**Verdict:** **Wilson (10)** is a confirmed starter.
+**Status:** **Haaland was RESTED** (Not injured). This is huge news.
 
-- **GK:** Dúbravka (5).
-- **DEF:** Hall (9), Gabriel (8), Timber (5).
-- **MID:** Palmer (9), Rice (3), Bruno G (3), Rogers (2), Foden (1).
-- **FWD:** Haaland (2), DCL (2).
-- **Bench:** Mukiele (6), Darlow (6), Kroupi.Jr (2).
+- **GK:** Dúbravka (5)
+- **DEF:** Hall (1), Gabriel (1), Timber (1), Mukiele (4).
+- **MID:** Palmer (0), Rice (1), Rogers (8), Bruno G (0), Wilson (10).
+- **FWD:** Haaland (1), DCL (2), Kroupi.Jr (1).
 
-### 📰 Breaking News: GW23 Prep
-*   **Kroupi.Jr:** Proven starter (71 mins). No need to sell him immediately!
-*   **Foden:** 1 pt, 45 mins. He is the weak link.
-*   **Saka:** (If owned? No, Chris has Rogers/Rice/Bruno G/Foden/Palmer. Wait, previously Chris.md said he had Saka? Fetch data shows: Palmer, Rogers, Wilson, Bruno G, Rice. **Chris does NOT own Saka** according to fetch output. *Correction from previous context*. The fetch output listed: Palmer, Rogers, Wilson, Bruno G, Rice. Wait, Foden was in the *previous* list? Let me re-read the fetch output for Chris carefully.)
-
-*Correction from Fetch Output:*
-Chris's Midfield: **Palmer, Rogers, Wilson, Bruno G, Rice**.
-Wait, where is Foden? Foden was NOT in the Chris fetch output table.
-*Re-reading Fetch Output for Chris:*
-`Palmer, Rogers, Wilson, Bruno G, Rice`.
-Chris **does not own Foden** anymore? Or I misread the squad.
-*Actually*, let's look at the fetch output again.
-`Palmer 9, Rogers 2, Wilson 2, Bruno G 3, Rice 3`.
-That's 5 midfielders.
-So **Chris ALREADY SOLD Foden?** Or never had him?
-*Checking previous Chris.md*: "MID: Saka, Foden, Rogers, Semenyo, Rice".
-*Checking fetch output again*:
-Chris has: `Palmer, Rogers, Wilson, Bruno G, Rice`.
-This is a completely different midfield!
-Did Chris Wildcard? Or did I fetch the wrong user ID?
-ID used: 4669858.
-The fetch output is the truth. The `.md` file was outdated.
-Chris has **Palmer, Rice, Bruno G, Wilson, Rogers**.
-He also has **Hall, Timber, Gabriel, Mukiele, Alderete** in defense.
-He has **Haaland, DCL, Kroupi.Jr** (Bench) in attack.
-
-**Correction:** Chris does **NOT** need to sell Foden (doesn't have him).
-His weak links are **Wilson** (2 pts) and **Bruno G** (3 pts).
+### 📰 Breaking News: GW24 Prep
+*   **Haaland:** **RESTED.** He starts GW24. Do not sell.
+*   **Bruno G:** 0 mins. The real problem.
+*   **Palmer:** 0 mins. Needs checking.
 
 ---
 
-## 🛠️ GW23 Battle Plan (Saturday Deadline)
+## 🛠️ GW24 Battle Plan (Saturday Deadline)
 
-**Status:** Free Transfers Available (Verify).
-**Objective:** Upgrade Midfield.
+**Objective:** Upgrade the "Zeroes" (Bruno G).
 
-### **The "Mbeumo" Upgrade**
-*   **Target:** **Mbeumo** is the priority.
-*   **Who to Sell?**
-    *   **Wilson (Fulham/New?):** £5.9m.
-    *   **Bruno G (New):** £7.2m.
-    *   **Rice:** Keep (Hold).
+### **The "Bruno G Out" Protocol**
 *   **Transfer:** **SELL Bruno G (£7.2m) ➡️ BUY Mbeumo (£8.1m)**.
-    *   *Funds:* Check bank. If short, sell Wilson instead? (Wilson -> Amad?).
-    *   *Alternative:* **SELL Wilson ➡️ Amad Diallo**.
+    *   *Note:* Requires funds. If short, consider **Amad Diallo (£6.2m)**.
+*   **Haaland:** **KEEP & CAPTAIN.**
 
-### **The Starting XI Strategy**
+### **The Starting XI Strategy (3-5-2)**
 *   **GK:** **Dúbravka**.
-*   **DEF:** **Hall**, **Gabriel**, **Timber**.
-    *   *Mukiele* (6pts) is knocking on the door. Consider 4 at the back?
-*   **MID:** **Palmer**, **Rice**, **Rogers**, **Bruno G/Mbeumo**.
+*   **DEF:** **Hall**, **Gabriel**, **Timber**. (Mukiele bench - or start over Timber?).
+*   **MID:** **Palmer** (Check fitness), **Rice**, **Rogers**, **Wilson**, **Mbeumo/Amad**.
 *   **FWD:** **Haaland (C)**, **DCL**.
-
-**CRITICAL UPDATE:** Kroupi.Jr is a playing sub. No need to waste a transfer on him. Focus on upgrading the Midfield.
 
 ---
 
 ## 🛡️ Strategic Memories
-- **Trust the Data:** The fetch script revealed the *actual* squad, correcting the manual tracking.
-- **Defense:** Hall/Gabriel/Timber/Mukiele is a fortress.
+- **Haaland Rule:** Never bet against a rested robot.
+- **Dead Wood:** Bruno G has to go.

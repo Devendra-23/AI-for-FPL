@@ -21,59 +21,63 @@
 
 ---
 
-## 🏆 The "Veteran Hunter" Strategy (GW23 Prep)
+## 🏆 The "Veteran Hunter" Strategy (GW24 Prep)
 
-**GW22 Final Score:** **48 pts**.
-**Verdict:** Solid week led by **Thiaw (9)** and **Palmer (9)**.
-**Status:** **Petrović Played!** (2 pts). He is not dead, but 2pts is low.
+**GW23 Final Score:** **32 pts**.
+**Verdict:** Survival Mode.
+**Update:** **Haaland was RESTED** (Safe). **Saka is INJURED.**
 
-### 📊 Squad Performance Matrix (GW22 Data)
+### 📊 Squad Performance Matrix (GW23 Data)
 
 | Player        | Pts | xGI   | Verdict        | Notes                                     |
 | :------------ | :-- | :---- | :------------- | :---------------------------------------- |
-| **Thiaw**     | 9   | 0.00  | 🦸 **Hero**    | Massive haul.                             |
-| **Palmer**    | 9   | 0.82  | 👑 **King**    | Essential.                                |
-| **Gabriel**   | 8   | 0.14  | 🛡️ **Elite**   | Solid.                                    |
-| **Mukiele**   | 6   | 0.14  | 📈 **Rise**    | 6 pts. Must start next week.              |
-| **Van Hecke** | 6   | 0.16  | ✅ **Value**    | 6 pts on bench!                           |
-| **Petrović**  | 2   | 0.00  | ⚠️ **Weak**    | At least he played.                       |
-| **Foden**     | 1   | 0.00  | 📉 **Drop**    | 1 pt (45 mins). Pep Roulette victim.      |
-| **Saka**      | 1   | 0.13  | 🚑 **Injury**  | "Niggle". Monitor.                        |
+| **Wilson**    | 10  | 0.17  | 🔥 **Hero**    | Top scorer.                               |
+| **Bruno F.**  | 5   | 0.40  | ✅ **Solid**    | Assist.                                   |
+| **Mukiele**   | 4   | 0.15  | 📈 **Rise**    | Consistent points.                        |
+| **Dorgu**     | -   | -     | 🆕 **New**     | Man Utd defense cover.                    |
+| **Saka**      | 2   | 0.49  | 🚑 **SELL**    | Muscular injury. High priority sell.      |
+| **Haaland**   | 1   | 0.00  | 🤖 **Safe**    | Rested in GW23. **CAPTAIN for GW24.**     |
 
 ---
 
-## 🛠️ GW23 Battle Plan (Saturday Deadline)
+## 🕵️‍♀️ Wildcard Scouting Report (GW24)
 
-**Fantasy Hub AI Rating:** (Check https://www.fantasyfootballhub.co.uk/ai-team-rating)
+**Source:** Top 10k Analysis & "Elite" Drafts (Jan 2026).
+**Trend Alert:** The "No Haaland" Strategy is gaining traction due to his price (£15.1m) and recent rest/injury scares.
 
-### **The "Work League" Climb**
+**The "Template" Wildcard Team (What Rivals Might Do):**
+*   **GK:** **Dúbravka** (Burnley) - The consensus budget #1.
+*   **DEF:** **Gabriel** (ARS), **Alderete** (NFO), **Konate** (LIV).
+*   **MID:** **Bruno Fernandes** (MUN), **Mbeumo** (MUN), **Wirtz** (New Signing?), **Rice** (ARS).
+*   **FWD:** **Isak** (LIV), **Thiago** (BRE).
 
-**Objective:** Sell Foden to gain rank.
+**Harriet's Counter-Strategy:**
+*   **Don't Panic Sell Haaland:** If the Veteran goes "No Haaland", holding him is your biggest differential. If Haaland hauls, you win the league.
+*   **Match the Midfield:** The Wildcarders are loading up on **Bruno/Mbeumo**. Harriet *must* complete the **Saka -> Mbeumo** move to match this "Template Midfield".
 
-**Option A: The "Aggressive Climb" (Recommended for Chasing)**
-*   **Transfer:** **SELL Foden (£8.7m) ➡️ BUY Bruno Fernandes (£9.1m)**.
-*   **Why:**
-    1.  **Differential:** Rivals will buy Mbeumo. Owning Bruno (on pens, 90 mins) is how you catch them.
-    2.  **Security:** Foden played 45 mins. Bruno plays 90.
-    3.  **Fixture:** Man Utd home fixture (vs Sunderland) is prime for a haul.
-*   **Risk:** Requires ~£0.4m ITB. *Check Bank.*
+---
 
-**Option B: The "Block" (Safe Play)**
-*   **Transfer:** **SELL Foden (£8.7m) ➡️ BUY Mbeumo (£8.1m)**.
-*   **Why:** Matches the template. Stops you from falling behind if Mbeumo hauls. Saves £0.6m.
+## 🛠️ GW24 Battle Plan (Saturday Deadline)
+
+### **The "Man Utd Triple Up" Pivot**
+
+**Objective:** Replace the injured Saka with the explosive Mbeumo.
+
+*   **Transfer 1: Heaven ➡️ Dorgu** [DONE].
+*   **Transfer 2: Saka (£10.2m) ➡️ Mbeumo (£8.1m)** [PRIORITY].
+    *   *Note:* If Harriet is out of FTs, this move is worth a **-4 hit**.
+    *   *Benefit:* Harriet matches the "Wildcard Template" midfield (Bruno/Mbeumo) without using her chip.
 
 ### **The Starting XI Strategy (3-4-3)**
-
-- **GK:** **Petrović** (or Dúbravka if fixture is better).
-- **DEF:** **Thiaw**, **Gabriel**, **Mukiele** (Start him!).
-    *   *Bench:* Van Hecke (6pts on bench last week - tough call).
-- **MID:** **Palmer**, **Bruno F/Mbeumo** (New), **Saka** (Check fitness), **Garner**.
-- **FWD:** **Haaland (C)**, **Thiago**, **DCL**.
+*   **GK:** **Dúbravka** (vs SOU - Good fixture).
+*   **DEF:** **Thiaw**, **Gabriel**, **Dorgu**.
+*   **MID:** **Palmer** (Check status), **Mbeumo** (New), **Bruno F.**, **Wilson**.
+*   **FWD:** **Haaland (C)**, **Thiago**, **DCL**.
 
 ---
 
 ## 🛡️ Strategic Checklist
 
-1.  **Check Funds:** Can Harriet afford Bruno Fernandes (£9.1m)? If not, go Mbeumo.
-2.  **Saka Watch:** If Saka is out, start **Van Hecke**.
-3.  **Execute Transfer:** Get Foden OUT before Man City vs Wolves (Rotation Risk).
+1.  **Saka Replacement:** Don't hold an injured £10.2m asset. Mbeumo is the direct replacement.
+2.  **Man Utd Momentum:** Harriet is now heavily invested in the "New United" bounce.
+3.  **Haaland Armband:** He is rested and ready.

@@ -18,59 +18,57 @@
 
 ---
 
-## 🏆 Current Squad State (GW23 Active)
+## 🏆 Current Squad State (GW24 Prep)
 
-**GW22 Final Score:** **43 pts**.
-**Verdict:** A tough week. Pickford (10) and Gabriel (8) were the only high performers. Saka (1) and Foden (1) blanked heavily.
+**Current Focus:** **GW24 Strategy (Deadline: Jan 31, 2026)**
+**GW23 Final Score:** **42 pts**.
 
-**Squad for GW23 (Deadline: Jan 24, 2026):**
-*Transfers (-4 Hit) have been applied.*
+- **GK:** Pickford (EVE)
+- **DEF:** Gabriel (ARS), Van Hecke (BHA), J.Timber (ARS)
+- **MID:** **Mbeumo (MUN)** (New), B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
+- **FWD:** Haaland (MCI), DCL (LEE), Kroupi.Jr (BOU).
+- **Bench:** Dúbravka, Alderete, Gudmundsson, Kroupi.Jr.
 
-- **GK:** **Pickford** (EVE)
-- **DEF:** **Gabriel** (ARS), **Gudmundsson** (BUR), **Alderete** (NFO) - *Rotating Backline.*
-- **MID:** **Saka** (ARS), **B.Fernandes** (MUN), **Semenyo** (MCI), **Enzo** (CHE), **Rogers** (AVL).
-- **FWD:** **Haaland** (MCI), **DCL** (LEE).
-- **Bench:** Dúbravka, Timber, Van Hecke, Kroupi.Jr.
-
-### 📝 Transfer Ledger (GW23)
-1. **Foden ➡️ B.Fernandes** [DONE]
-2. **Devenny ➡️ Semenyo** [DONE]
-3. **Bowen ➡️ Kroupi.Jr** [DONE]
-- **Hit:** -4 Points.
+### 📝 Transfer Activity Ledger (GW24)
+- **Saka (£10.2m) ➡️ Mbeumo (£8.1m)** [PLANNED/DONE].
+- **Remaining FTs:** 0.
+- **Bank:** **£2.1m ITB.**
 
 ### 📰 Team News & Risks
-*   **Bukayo Saka:** **INJURY SCARE.** Benched in GW22 with a "niggle". Need press conference update.
-*   **Kroupi.Jr:** **ALIVE!** Played 71 mins in GW22 (2 pts). He is a playing bench fodder!
+*   **Haaland (17 mins, 1 pt):** **CONFIRMED RESTED.** No injury. He is fresh and ready for GW24. **ESSENTIAL HOLD.**
+*   **Saka:** Sold for Mbeumo due to muscular injury.
+*   **Pickford/DCL:** Returned to action in final GW23 data.
 
 ---
 
-## 🛠️ GW23 Battle Plan (Saturday Deadline)
+## 🛠️ GW24 Battle Plan (Saturday, Jan 31)
 
-### **The "Hold the Line" Strategy**
-We have taken our hit. Now we rely on the new assets.
+### **The "Fresh Robot" Strategy**
 
-**Captaincy:**
-*   **Primary:** **Haaland** (Standard).
-*   **Differential:** **Bruno Fernandes** (Home vs ??? Check fixture).
+**Objective:** Capitalize on a fully rested Erling Haaland while leveraging the new Manchester United midfield double-up.
 
-**Starting XI Decision:**
-*   **Defense:** Gabriel is locked. Pick 2 from Gudmundsson, Alderete, Timber, Van Hecke based on fixtures.
-    *   *Note:* Gudmundsson got 6pts on bench GW22. Timber got 5pts.
-*   **Midfield:** Start all 5 if Saka is fit.
-*   **Forward:** Haaland, DCL.
+**Starting XI Strategy (3-5-2)**
+*   **GK:** **Pickford**.
+*   **DEF:** **Gabriel**, **Timber**, **Gudmundsson**. (Rotate based on fixtures).
+*   **MID:** **Mbeumo**, **Bruno F.**, **Semenyo**, **Enzo**, **Rogers**.
+*   **FWD:** **Haaland (C)**, **DCL**.
 
-### **Contingency Plan (Saka Injury)**
-If Saka is ruled out:
-*   **Option A:** Play 5-3-2 or 4-4-2. Bench Saka, bring in **Timber** or **Gudmundsson**.
-*   **Option B:** Sell Saka (Only if out for 3+ weeks). Target: **Palmer** (if funds allow) or **Mbeumo**.
+**Capital Usage (£2.1m ITB):**
+*   Since Haaland does *not* need replacing, this cash is a war chest.
+*   **Plan:** Hold the cash for GW25 to upgrade **DCL** -> **Isak** or **Timber** -> **Premium Defender**.
+
+### **Captaincy**
+*   **Captain:** **Haaland**. (Rested = Angry = Points).
+*   **Vice:** **Bruno Fernandes**.
 
 ---
 
-## 🔮 Future Watchlist (GW24+)
-1.  **Mbeumo:** If Semenyo flops.
-2.  **Isak:** If DCL form drops.
+## 🔮 Future Watchlist (GW25+)
+1.  **Amad Diallo (£6.2m):** Monitor role alongside Mbeumo.
+2.  **Isak (LIV):** Luxury upgrade target for DCL using the banked cash.
 
 ## 🛡️ Strategic Checklist
-*   [x] **GW23 Transfers:** Completed (-4).
-*   [ ] **Check Saka:** Vital.
-*   [ ] Confirm GW23 Deadline: **Saturday, Jan 24**.
+*   [x] **GW23 Records:** Finalized (42 pts).
+*   [x] **Saka Transfer:** Planned/Executed.
+*   [x] **Haaland Status:** **RESTED (SAFE).**
+*   [ ] Confirm GW24 Deadline: **Saturday, Jan 31**.
