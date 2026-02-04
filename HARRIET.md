@@ -11,7 +11,7 @@
 7.  **FIXTURE TRUTH:** ALWAYS verify the official 2025/26 fixture list. Check for "Blanks" and "Doubles".
 8.  **SCORING 2025/26 (CBIT):** Incorporate the new "CBIT" metric in player evaluation. Defenders get +2 pts per 10 defensive actions.
 9.  **DATA DEEP DIVE:** Before recommending a transfer, ALWAYS check Home vs. Away form splits and Head-to-Head (H2H) history.
-10. **TACTICAL INTELLIGENCE:** Monitor manager changes (Sackings reported Jan 15).
+10. **TACTICAL INTELLIGENCE:** Monitor manager changes.
 11. **AUTOMATED DATA REFRESH:** Run `fetch_gw_stats.py --user harriet`.
 
 **Manager:** Harriet Francis
@@ -21,63 +21,56 @@
 
 ---
 
-## 🏆 The "Veteran Hunter" Strategy (GW24 Prep)
+## 🏆 The "Veteran Hunter" Strategy (Post-GW24)
 
-**GW23 Final Score:** **32 pts**.
-**Verdict:** Survival Mode.
-**Update:** **Haaland was RESTED** (Safe). **Saka is INJURED.**
+**GW23 Final Score:** **32 pts**
+**GW24 Status:** **Complete** (Points Updating...)
+**League Status:** **1st** (Defending).
 
-### 📊 Squad Performance Matrix (GW23 Data)
+### 📊 Squad Performance Matrix
 
-| Player        | Pts | xGI   | Verdict        | Notes                                     |
-| :------------ | :-- | :---- | :------------- | :---------------------------------------- |
-| **Wilson**    | 10  | 0.17  | 🔥 **Hero**    | Top scorer.                               |
-| **Bruno F.**  | 5   | 0.40  | ✅ **Solid**    | Assist.                                   |
-| **Mukiele**   | 4   | 0.15  | 📈 **Rise**    | Consistent points.                        |
-| **Dorgu**     | -   | -     | 🆕 **New**     | Man Utd defense cover.                    |
-| **Saka**      | 2   | 0.49  | 🚑 **SELL**    | Muscular injury. High priority sell.      |
-| **Haaland**   | 1   | 0.00  | 🤖 **Safe**    | Rested in GW23. **CAPTAIN for GW24.**     |
+| Player        | Verdict        | Notes                                     |
+| :------------ | :------------- | :---------------------------------------- |
+| **Wilson**    | 🔥 **Hero**    | Consistent points source.                 |
+| **Mbeumo**    | 🆕 **New**     | The Saka replacement. High hopes for Feb. |
+| **Haaland**   | 🤖 **Safe**    | The Shield.                               |
+| **Dorgu**     | 📈 **Rise**    | Differential defender.                    |
 
 ---
 
-## 🕵️‍♀️ Wildcard Scouting Report (GW24)
+## 📅 February 2026 Intelligence Report (GW25-28)
 
-**Source:** Top 10k Analysis & "Elite" Drafts (Jan 2026).
-**Trend Alert:** The "No Haaland" Strategy is gaining traction due to his price (£15.1m) and recent rest/injury scares.
-
-**The "Template" Wildcard Team (What Rivals Might Do):**
-*   **GK:** **Dúbravka** (Burnley) - The consensus budget #1.
-*   **DEF:** **Gabriel** (ARS), **Alderete** (NFO), **Konate** (LIV).
-*   **MID:** **Bruno Fernandes** (MUN), **Mbeumo** (MUN), **Wirtz** (New Signing?), **Rice** (ARS).
-*   **FWD:** **Isak** (LIV), **Thiago** (BRE).
-
-**Harriet's Counter-Strategy:**
-*   **Don't Panic Sell Haaland:** If the Veteran goes "No Haaland", holding him is your biggest differential. If Haaland hauls, you win the league.
-*   **Match the Midfield:** The Wildcarders are loading up on **Bruno/Mbeumo**. Harriet *must* complete the **Saka -> Mbeumo** move to match this "Template Midfield".
+**Schedule Analysis:**
+*   **Clean Slate:** No DGWs or Blanks.
+*   **Implication:** Your rivals cannot gain an "easy" advantage by triple captaining in a DGW yet.
+*   **Strategy:** **"Match & Exceed"**. Keep the "Template" core (Haaland, Gabriel, Palmer) to block rivals, but use your **differentials** (Wilson, Dorgu) to maintain the gap.
 
 ---
 
-## 🛠️ GW24 Battle Plan (Saturday Deadline)
+## 🛠️ GW25 Battle Plan
 
-### **The "Man Utd Triple Up" Pivot**
+**Objective:** Consolidate the lead. Ensure the Starting XI is 100% fit.
 
-**Objective:** Replace the injured Saka with the explosive Mbeumo.
+**Transfer Strategy:**
+*   **Status:** Saka ➡️ Mbeumo DONE.
+*   **Plan:** **ROLL** transfer if possible.
+*   **Watchlist:** **Isak** (LIV). If he returns, he is a major threat. Be ready to move **Thiago** or **DCL** to Isak if funds allow.
 
-*   **Transfer 1: Heaven ➡️ Dorgu** [DONE].
-*   **Transfer 2: Saka (£10.2m) ➡️ Mbeumo (£8.1m)** [PRIORITY].
-    *   *Note:* If Harriet is out of FTs, this move is worth a **-4 hit**.
-    *   *Benefit:* Harriet matches the "Wildcard Template" midfield (Bruno/Mbeumo) without using her chip.
-
-### **The Starting XI Strategy (3-4-3)**
-*   **GK:** **Dúbravka** (vs SOU - Good fixture).
+**Starting XI Strategy (3-4-3)**
+*   **GK:** **Dúbravka**.
 *   **DEF:** **Thiaw**, **Gabriel**, **Dorgu**.
-*   **MID:** **Palmer** (Check status), **Mbeumo** (New), **Bruno F.**, **Wilson**.
+*   **MID:** **Palmer**, **Mbeumo**, **Bruno F.**, **Wilson**.
 *   **FWD:** **Haaland (C)**, **Thiago**, **DCL**.
+
+### **Captaincy Verdict**
+*   **Captain:** **Erling Haaland**.
+    *   *Defense Mode:* Most rivals will captain him. You must too to neutralize the risk.
+    *   *Differential Captain:* **Mbeumo**. Only consider if you need to chase points (unlikely since you are 1st).
 
 ---
 
 ## 🛡️ Strategic Checklist
 
-1.  **Saka Replacement:** Don't hold an injured £10.2m asset. Mbeumo is the direct replacement.
-2.  **Man Utd Momentum:** Harriet is now heavily invested in the "New United" bounce.
-3.  **Haaland Armband:** He is rested and ready.
+1.  **Saka Out:** Successfully pivoted to Mbeumo.
+2.  **Rival Watch:** Monitor ID 1618354. Did they buy **Isak**? If so, match them if he hits form.
+3.  **Bank Management:** Ensure enough funds are available for a future **Isak** move.

@@ -18,57 +18,62 @@
 
 ---
 
-## 🏆 Current Squad State (GW24 Prep)
+## 🏆 Current Squad State (Post-GW24)
 
-**Current Focus:** **GW24 Strategy (Deadline: Jan 31, 2026)**
-**GW23 Final Score:** **42 pts**.
+**Current Focus:** **GW25 Strategy (February Offensive)**
+**GW23 Final Score:** **42 pts**
+**GW24 Status:** **Complete** (Points Updating...)
 
 - **GK:** Pickford (EVE)
 - **DEF:** Gabriel (ARS), Van Hecke (BHA), J.Timber (ARS)
-- **MID:** **Mbeumo (MUN)** (New), B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
+- **MID:** **Mbeumo (MUN)**, B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
 - **FWD:** Haaland (MCI), DCL (LEE), Kroupi.Jr (BOU).
 - **Bench:** Dúbravka, Alderete, Gudmundsson, Kroupi.Jr.
 
-### 📝 Transfer Activity Ledger (GW24)
-- **Saka (£10.2m) ➡️ Mbeumo (£8.1m)** [PLANNED/DONE].
-- **Remaining FTs:** 0.
-- **Bank:** **£2.1m ITB.**
-
-### 📰 Team News & Risks
-*   **Haaland (17 mins, 1 pt):** **CONFIRMED RESTED.** No injury. He is fresh and ready for GW24. **ESSENTIAL HOLD.**
-*   **Saka:** Sold for Mbeumo due to muscular injury.
-*   **Pickford/DCL:** Returned to action in final GW23 data.
+### 📝 Transfer Activity Ledger
+- **GW24:** **Saka ➡️ Mbeumo** [EXECUTED].
+- **Bank:** **~£2.5m ITB.**
 
 ---
 
-## 🛠️ GW24 Battle Plan (Saturday, Jan 31)
+## 📅 February 2026 Intelligence Report (GW25-28)
 
-### **The "Fresh Robot" Strategy**
+**Schedule Analysis:**
+*   **Doubles/Blanks:** None confirmed for GW 25-28. The schedule is **stable**.
+*   **Strategy:** "Fixture Aggression". Target teams with the best 4-week runs (e.g., Arsenal, Liverpool).
+*   **Key Insight:** With no DGWs to save chips for immediately, focus on **Squad Value** and **Points Per Game (PPG)** optimization.
 
-**Objective:** Capitalize on a fully rested Erling Haaland while leveraging the new Manchester United midfield double-up.
+---
+
+## 🛠️ GW25 Battle Plan
+
+### **The "Luxury Upgrade" Protocol**
+
+**Objective:** Utilize the £2.5m ITB to upgrade the weakest link (DCL) or bolster the defense.
+
+**Transfer Targets (Watchlist):**
+1.  **Alexander Isak (LIV):** *Status: Monitor Injury.* If fit, he is the priority upgrade for DCL.
+    *   *Cost:* ~£10.3m. (Might need minor funding adjustment).
+2.  **Premium Defender:** If Isak is out, upgrade **Timber** or **Van Hecke** to a premium asset like **Trent AA** or **Gvardiol** (if fit).
 
 **Starting XI Strategy (3-5-2)**
 *   **GK:** **Pickford**.
-*   **DEF:** **Gabriel**, **Timber**, **Gudmundsson**. (Rotate based on fixtures).
+*   **DEF:** **Gabriel**, **Timber**, **Van Hecke**. (Bench: Gudmundsson - Injury Check).
 *   **MID:** **Mbeumo**, **Bruno F.**, **Semenyo**, **Enzo**, **Rogers**.
-*   **FWD:** **Haaland (C)**, **DCL**.
+*   **FWD:** **Haaland (C)**, **DCL** (or Isak).
 
-**Capital Usage (£2.1m ITB):**
-*   Since Haaland does *not* need replacing, this cash is a war chest.
-*   **Plan:** Hold the cash for GW25 to upgrade **DCL** -> **Isak** or **Timber** -> **Premium Defender**.
-
-### **Captaincy**
-*   **Captain:** **Haaland**. (Rested = Angry = Points).
+### **Captaincy Verdict**
+*   **Captain:** **Erling Haaland**.
+    *   *The Logic:* Standard procedure. In a normal gameweek, the robot is the safest path to green arrows.
 *   **Vice:** **Bruno Fernandes**.
 
 ---
 
-## 🔮 Future Watchlist (GW25+)
-1.  **Amad Diallo (£6.2m):** Monitor role alongside Mbeumo.
-2.  **Isak (LIV):** Luxury upgrade target for DCL using the banked cash.
+## 🔮 Future Watchlist (GW26+)
+1.  **Amad Diallo (£6.2m):** Monitor role/minutes.
+2.  **Solanke/Watkins:** Alternative forward options if Isak remains injured.
 
 ## 🛡️ Strategic Checklist
-*   [x] **GW23 Records:** Finalized (42 pts).
-*   [x] **Saka Transfer:** Planned/Executed.
-*   [x] **Haaland Status:** **RESTED (SAFE).**
-*   [ ] Confirm GW24 Deadline: **Saturday, Jan 31**.
+*   [x] **GW24 Transfers:** Saka -> Mbeumo completed.
+*   [ ] **Monitor Isak:** Check injury status daily.
+*   [ ] **Check Gudmundsson:** Verify fitness for bench cover.
