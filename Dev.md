@@ -20,60 +20,69 @@
 
 ## 🏆 Current Squad State (Post-GW24)
 
-**Current Focus:** **GW25 Strategy (February Offensive)**
-**GW23 Final Score:** **42 pts**
-**GW24 Status:** **Complete** (Points Updating...)
+**Current Focus:** **GW25/26 Strategy (DGW Aggression)**
+**GW24 Score:** **49 pts** (Updated)
+**GW25 Status:** **Pending Transfer**
 
-- **GK:** Pickford (EVE)
+- **GK:** **Raya (ARS)**
 - **DEF:** Gabriel (ARS), Van Hecke (BHA), J.Timber (ARS)
-- **MID:** **Mbeumo (MUN)**, B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
-- **FWD:** Haaland (MCI), DCL (LEE), Kroupi.Jr (BOU).
-- **Bench:** Dúbravka, Alderete, Gudmundsson, Kroupi.Jr.
+- **MID:** Mbeumo (MUN), B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
+- **FWD:** Haaland (MCI), **D. Calvert-Lewin (LEE)**, Kroupi.Jr (BOU).
+- **Bench:** Dúbravka, Alderete, Gudmundsson.
 
 ### 📝 Transfer Activity Ledger
-- **GW24:** **Saka ➡️ Mbeumo** [EXECUTED].
-- **Bank:** **~£2.5m ITB.**
+- **GW24:** **Saka ➡️ Mbeumo** [DONE].
+- **GW25:** **Pickford ➡️ Raya** [DONE].
+- **GW25:** **ROLL TRANSFER** (Decision: Hold DCL over Tolu).
+- **Bank:** **£2.6m ITB** (Current).
 
 ---
 
 ## 📅 February 2026 Intelligence Report (GW25-28)
 
 **Schedule Analysis:**
-*   **Doubles/Blanks:** None confirmed for GW 25-28. The schedule is **stable**.
-*   **Strategy:** "Fixture Aggression". Target teams with the best 4-week runs (e.g., Arsenal, Liverpool).
-*   **Key Insight:** With no DGWs to save chips for immediately, focus on **Squad Value** and **Points Per Game (PPG)** optimization.
+*   **🚨 DOUBLE GAMEWEEK 26:** **Arsenal** and **Wolves** have a DGW.
+    *   **Arsenal:** Brentford (A), Wolves (H).
+    *   **Wolves:** Nottingham Forest (A), Arsenal (A).
+*   **⚠️ BLANK GAMEWEEK 31:** **Arsenal** and **Wolves** are the confirmed major blanks.
+*   **Strategy:** "The DGW Pivot (Minimalist)". With DCL staying, we rely on the **Triple Arsenal Defense** (Raya, Gabriel, Timber) to carry DGW26. We will use the rolled transfer in GW26 to bring in a Wolves defender if needed, but Aït-Nouri is NO LONGER a target as he has moved to Man City (no DGW).
 
 ---
 
-## 🛠️ GW25 Battle Plan
+## 🛠️ GW25/26 Battle Plan
 
-### **The "Luxury Upgrade" Protocol**
+### **The "Diamond Hands DCL" Strategy**
 
-**Objective:** Utilize the £2.5m ITB to upgrade the weakest link (DCL) or bolster the defense.
-
-**Transfer Targets (Watchlist):**
-1.  **Alexander Isak (LIV):** *Status: Monitor Injury.* If fit, he is the priority upgrade for DCL.
-    *   *Cost:* ~£10.3m. (Might need minor funding adjustment).
-2.  **Premium Defender:** If Isak is out, upgrade **Timber** or **Van Hecke** to a premium asset like **Trent AA** or **Gvardiol** (if fit).
-
-**Starting XI Strategy (3-5-2)**
-*   **GK:** **Pickford**.
-*   **DEF:** **Gabriel**, **Timber**, **Van Hecke**. (Bench: Gudmundsson - Injury Check).
+**GW25 Starting XI Strategy (3-5-2)**
+*   **GK:** **Raya**.
+*   **DEF:** **Gabriel**, **Timber**, **Van Hecke**.
 *   **MID:** **Mbeumo**, **Bruno F.**, **Semenyo**, **Enzo**, **Rogers**.
-*   **FWD:** **Haaland (C)**, **DCL** (or Isak).
+*   **FWD:** **Haaland (C)**, **Calvert-Lewin**.
+
+**GW26 Strategy (The Triple Arsenal Wall):**
+*   **DGW Players:** Raya, Gabriel, Timber.
+*   **Transfer Target:** **Alderete ➡️ Toti (WOL)**. 
+    *   *Why:* Aït-Nouri moved to Man City and is no longer a DGW asset. Toti provides cheap coverage for the double.
 
 ### **Captaincy Verdict**
-*   **Captain:** **Erling Haaland**.
-    *   *The Logic:* Standard procedure. In a normal gameweek, the robot is the safest path to green arrows.
-*   **Vice:** **Bruno Fernandes**.
+*   **GW25 Captain:** **Erling Haaland**.
+*   **GW26 Captain:** **Gabriel** or **David Raya** (Maximize CBIT points in a DGW).
+
+## 🍟 Chip Strategy (Active)
+*   **Bench Boost (BB):** **HOLD.**
+    *   **Status:** Difficult to optimize without Wildcard.
+    *   **Verdict:** **Do NOT use in GW26.** (Bench fixtures: SUN vs LIV, LEE vs CHE).
+    *   **New Plan:** **"The Slow Build."** Gradually strengthen the bench over the next 6-8 weeks. Target **GW34 or GW37**.
+*   **Wildcard (WC2):** **USED (GW20).**
+*   **Free Hit (FH):** **Available.** **CRITICAL ASSET.** Save for **BGW29** or **BGW31**.
 
 ---
 
-## 🔮 Future Watchlist (GW26+)
-1.  **Amad Diallo (£6.2m):** Monitor role/minutes.
-2.  **Solanke/Watkins:** Alternative forward options if Isak remains injured.
+## 🔮 Future Watchlist (GW27+)
+1.  **Isak (LIV):** Target for GW27+ (Bank is ready).
+2.  **Bowen (WHU):** Top target for BGW31 navigation.
 
 ## 🛡️ Strategic Checklist
-*   [x] **GW24 Transfers:** Saka -> Mbeumo completed.
-*   [ ] **Monitor Isak:** Check injury status daily.
-*   [ ] **Check Gudmundsson:** Verify fitness for bench cover.
+*   [x] **GW25 GK Transfer:** Pickford -> Raya completed.
+*   [x] **GW25 FWD Decision:** Diamond Hands DCL (Hold).
+*   [ ] **Bank Management:** Keep £2.6m ITB for Isak upgrade.

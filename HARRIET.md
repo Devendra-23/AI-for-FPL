@@ -1,4 +1,4 @@
-# FPL Master Strategy - Harriet (The Title Defense)
+# FPL Master Strategy - Harriet (The Rank Chase)
 
 ## 🚨 MANDATORY AI RULES
 
@@ -16,61 +16,73 @@
 
 **Manager:** Harriet Francis
 **FPL ID:** 2610341
-**Current Position:** 1st in TP Classic League
-**Key Rival:** ID 1618354 (Top 10k Veteran - High Threat)
+**Current Position:** 8th in TP Classic League (Chasing)
+**Key Rival:** ID 1618354 (Top 10k Veteran) | ID 4669858 (Chris - Current Lead)
 
 ---
 
-## 🏆 The "Veteran Hunter" Strategy (Post-GW24)
+## 🚀 The "Aggressive Pursuit" Strategy (Post-GW24)
 
-**GW23 Final Score:** **32 pts**
-**GW24 Status:** **Complete** (Points Updating...)
-**League Status:** **1st** (Defending).
+**GW24 Score:** **68 pts** (Strong performance)
+**League Status:** **8th** - Chasing the leaders.
 
-### 📊 Squad Performance Matrix
+### 📊 Actual Squad Analysis (Verified GW24)
 
-| Player        | Verdict        | Notes                                     |
-| :------------ | :------------- | :---------------------------------------- |
-| **Wilson**    | 🔥 **Hero**    | Consistent points source.                 |
-| **Mbeumo**    | 🆕 **New**     | The Saka replacement. High hopes for Feb. |
-| **Haaland**   | 🤖 **Safe**    | The Shield.                               |
-| **Dorgu**     | 📈 **Rise**    | Differential defender.                    |
+| Position | Player | Team | Verdict | DGW26 | BGW31 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **GK** | **Raya** | ARS | ✅ Core | YES | BLANK |
+| **DEF** | **Gabriel** | ARS | ✅ Core | YES | BLANK |
+| **DEF** | **Mukiele** | SUN | ⚠️ Rotation | NO | YES |
+| **DEF** | **Senesi** | BOU | ⚠️ Low Ceiling | NO | YES |
+| **DEF** | **Murillo** | NFO | ⚠️ Poor Fixt | NO | YES |
+| **MID** | **Mbeumo** | MUN | ✅ Explosive | NO | LIKELY |
+| **MID** | **Bruno F.** | MUN | ✅ Creative | NO | LIKELY |
+| **MID** | **Rice** | ARS | ✅ Steady | YES | BLANK |
+| **MID** | **Enzo** | CHE | ⚠️ Deep Role | NO | LIKELY |
+| **MID** | **Rogers** | AVL | ✅ Value | NO | YES |
+| **FWD** | **Haaland** | MCI | 🤖 The Shield | NO | LIKELY |
+| **Bench** | Dúbravka | BUR | ❌ Bench | NO | YES |
+| **Bench** | **DCL** | LEE | ✅ Hold | NO | YES |
+| **Bench** | Kroupi.Jr | BOU | 📈 Enabler | NO | YES |
+| **Bench** | Van Hecke | BHA | 🛡️ Cover | NO | YES |
 
 ---
 
-## 📅 February 2026 Intelligence Report (GW25-28)
+## 📅 The Road to DGW26 (GW25-26)
 
-**Schedule Analysis:**
-*   **Clean Slate:** No DGWs or Blanks.
-*   **Implication:** Your rivals cannot gain an "easy" advantage by triple captaining in a DGW yet.
-*   **Strategy:** **"Match & Exceed"**. Keep the "Template" core (Haaland, Gabriel, Palmer) to block rivals, but use your **differentials** (Wilson, Dorgu) to maintain the gap.
+**Double Gameweek 26 Fixtures:**
+*   **Arsenal:** Brentford (A), Wolves (H)
+*   **Wolves:** Nott'm Forest (A), Arsenal (A)
+
+**Harriet's Advantage:** Already has Triple Arsenal (Raya, Gabriel, Rice).
+**Decision:** **Diamond Hands DCL.** User preference is to hold DCL over Tolu Arokodare.
 
 ---
 
 ## 🛠️ GW25 Battle Plan
 
-**Objective:** Consolidate the lead. Ensure the Starting XI is 100% fit.
+**Objective:** **ROLL THE TRANSFER (The 2-FT Arsenal/Wolves Pivot)**
 
-**Transfer Strategy:**
-*   **Status:** Saka ➡️ Mbeumo DONE.
-*   **Plan:** **ROLL** transfer if possible.
-*   **Watchlist:** **Isak** (LIV). If he returns, he is a major threat. Be ready to move **Thiago** or **DCL** to Isak if funds allow.
+**Strategy:**
+*   **Decision:** **ROLL the Free Transfer.**
+*   **Why:** Entering **DGW26** with **2 Free Transfers** allows for a high-impact double move (e.g., upgrading Mukiele/Murillo to a Wolves defender like **Toti**).
+*   **DCL Factor:** Since we are holding DCL, we don't need to spend a transfer on a striker this week. DCL has a great fixture vs Nottingham Forest (H) in GW25.
 
-**Starting XI Strategy (3-4-3)**
-*   **GK:** **Dúbravka**.
-*   **DEF:** **Thiaw**, **Gabriel**, **Dorgu**.
-*   **MID:** **Palmer**, **Mbeumo**, **Bruno F.**, **Wilson**.
-*   **FWD:** **Haaland (C)**, **Thiago**, **DCL**.
+**Starting XI Strategy (3-5-2)**
+*   **GK:** **Raya** (vs SUN, H) - *CS Lockdown.*
+*   **DEF:** **Gabriel**, **Van Hecke**, **Murillo**.
+*   **MID:** **Mbeumo**, **Bruno F.**, **Rice**, **Enzo**, **Rogers**.
+*   **FWD:** **Haaland** (vs LIV, A), **D. Calvert-Lewin** (vs NFO, H).
+*   **Bench:** Mukiele, Senesi, Kroupi Jr, Dúbravka.
 
 ### **Captaincy Verdict**
-*   **Captain:** **Erling Haaland**.
-    *   *Defense Mode:* Most rivals will captain him. You must too to neutralize the risk.
-    *   *Differential Captain:* **Mbeumo**. Only consider if you need to chase points (unlikely since you are 1st).
+*   **GW25:** **Gabriel (ARS)** (High Reward) or **Haaland** (Safety).
+    *   *Advice:* **Captain Gabriel**. The "Arsenal Wall" at home to Sunderland is the highest upside play while Haaland visits Anfield.
+*   **GW26:** **Gabriel** (DGW) or **Rice** (DGW).
 
 ---
 
-## 🛡️ Strategic Checklist
-
-1.  **Saka Out:** Successfully pivoted to Mbeumo.
-2.  **Rival Watch:** Monitor ID 1618354. Did they buy **Isak**? If so, match them if he hits form.
-3.  **Bank Management:** Ensure enough funds are available for a future **Isak** move.
+## ⚠️ The GW31 Truth
+*   **GOOD NEWS:** **Mbeumo (Man Utd)** and **Bruno F. (Man Utd)** do **NOT** blank in GW31.
+*   **Plan:** Harriet can hold these assets comfortably. The only major blanks are Arsenal and Wolves.
+*   **Strategy:** Use the 2 FTs in GW26 to maximize the double, then use GW27-30 transfers to slowly rotate out one Arsenal defender or deadwood for a BGW31 player.

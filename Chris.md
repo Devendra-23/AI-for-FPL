@@ -1,7 +1,7 @@
-# FPL Master Strategy: Chris (The Recovery)
+# FPL Master Strategy: Chris (The Rank Climber)
 
 **Manager:** Chris (ID: 4669858)
-**Strategy:** **The "Dead Wood" Purge & Starting XI Stabilization**
+**Strategy:** **The "Sniper" Approach (DGW26 Aggression + FH31)**
 
 ## 🚨 MANDATORY AI RULES
 
@@ -9,63 +9,79 @@
 2.  **ROSTER VERIFICATION:** Always check https://fantasy.premierleague.com/statistics for active 2025/26 players.
 3.  **PRICE TRACKING:** Always check https://www.livefpl.net/prices for imminent price changes.
 4.  **NEWS SOURCES:** Follow David Ornstein, Fabrizio Romano, and Ben Jacobs.
-5.  **AFCON 2026 RETURN:** **Mbeumo and Amad are BACK.** High value targets.
-6.  **FIXTURE TRUTH:** ALWAYS verify the official 2025/26 fixture list.
-7.  **SCORING 2025/26 (CBIT):** Incorporate the new "CBIT" metric. Defenders get +2 pts per 10 defensive actions.
-8.  **DATA DEEP DIVE:** Check Home vs. Away splits and H2H history before transfers.
-9.  **TACTICAL INTELLIGENCE:** Monitor manager changes.
-10. **PLAYER PERSISTENCE:** Avoid "Dead Wood" (players with 0 minutes).
-11. **AUTOMATED DATA REFRESH:** Run `fetch_gw_stats.py --user chris` before analysis.
+5.  **AFCON 2026 RETURN:** **Mbeumo and Amad are BACK.**
+6.  **FIXTURE TRUTH:** Verify "Blanks" and "Doubles" in the official fixture list.
+7.  **SCORING 2025/26 (CBIT):** Defenders get +2 pts per 10 defensive actions.
+8.  **DATA DEEP DIVE:** Check Home vs. Away form splits.
+9.  **CHIP MANAGEMENT:** **Free Hit (FH)** is the ONLY remaining chip.
+10. **AUTOMATED DATA REFRESH:** Run `fetch_gw_stats.py --user chris` before analysis.
 
 ---
 
-## 🏆 Current Squad State (Post-GW24)
+## 🏆 Current Squad State (Verified GW24)
 
-**GW23 Final Score:** **36 pts**
-**GW24 Status:** **Complete** (Points Updating...)
+**Current Rank:** **4.9M** (Climbing Mode Activated)
+**GW24 Score:** **47 pts**
 
-- **GK:** Dúbravka
-- **DEF:** Hall, Gabriel, Timber, Mukiele.
-- **MID:** Palmer (Check Fitness), Rice, Rogers, Wilson, **Mbeumo** (New).
-- **FWD:** Haaland, DCL, Kroupi.Jr.
+| Position | Player | Team | Verdict | DGW26 | BGW31 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **GK** | **Dúbravka** | NEW | ⚠️ Rotation? | NO | ? |
+| **DEF** | **Gabriel** | ARS | ✅ Core | **YES** | **BLANK** |
+| **DEF** | **Timber** | ARS | ✅ Core | **YES** | **BLANK** |
+| **DEF** | **Hall** | NEW | ✅ Attacking | NO | ? |
+| **DEF** | **Mukiele** | SUN | ⚠️ Rotation | NO | ? |
+| **DEF** | **Lucas Pires** | BUR | ❌ Sell | NO | ? |
+| **MID** | **Palmer** | CHE | 👑 King | NO | ? |
+| **MID** | **Rice** | ARS | ✅ Reliable | **YES** | **BLANK** |
+| **MID** | **Rogers** | AVL | ✅ Value | NO | ? |
+| **MID** | **Wilson** | FUL | ⚠️ Differential | NO | ? |
+| **MID** | **Mbeumo** | MUN | ✅ Back from AFCON | NO | OK |
+| **FWD** | **Haaland** | MCI | 🤖 Captain | NO | ? |
+| **MID** | **Cunha** | MUN | ✅ **Wait - NO DGW** | NO | OK |
+| **FWD** | **Igor Jesus** | NFO | 📉 Fade | NO | ? |
+| **FWD** | **Kroupi Jr** | BOU | 📈 Enabler | NO | ? |
+| **Bench** | **Darlow** | LEE | ❌ Backup | NO | ? |
 
-### 📝 Transfer Activity Ledger
-- **GW24:** **Bruno G ➡️ Mbeumo** [EXECUTED].
-- **Result:** Midfield is now active. No more "0 mins" from that spot.
-
----
-
-## 📅 February 2026 Intelligence Report (GW25-28)
-
-**Schedule Analysis:**
-*   **Stability:** No Double Gameweeks confirmed for Feb.
-*   **Strategy:** **"Stabilize & Climb"**. With the "Dead Wood" (Bruno G) gone, focus on maximizing points from the starting XI.
-*   **Target:** Consistent starters. Avoid rotation risks.
-
----
-
-## 🛠️ GW25 Battle Plan
-
-**Objective:** Solidify the defense and monitor Palmer.
-
-**Transfer Strategy:**
-*   **Hold:** If no new injuries, **ROLL** the transfer to build 2 FTs for GW26.
-*   **Emergency:** If **Palmer** is injured/dropped, swap to **Saka** (if fit) or **Foden**.
-
-**Starting XI Strategy (3-5-2)**
-*   **GK:** **Dúbravka**.
-*   **DEF:** **Hall**, **Gabriel**, **Timber**. (Mukiele on bench - keep an eye on minutes).
-*   **MID:** **Palmer**, **Rice**, **Rogers**, **Wilson**, **Mbeumo**.
-*   **FWD:** **Haaland (C)**, **DCL**.
-
-### **Captaincy Verdict**
-*   **Captain:** **Erling Haaland**.
-    *   *The Logic:* Don't overthink it. He is rested and the focal point.
-*   **Vice:** **Mbeumo**.
-    *   *The Argument:* New signing bounce, AFCON return energy.
+**Correction:** Cunha has moved to **Man Utd (MUN)**. He NO LONGER has a Double Gameweek in 26. This reduces Chris's DGW count to **3** (Triple Arsenal).
 
 ---
 
-## 🛡️ Strategic Memories
-- **Haaland Rule:** Never bet against a rested robot.
-- **Dead Wood Protocol:** Complete (Bruno G out). Now verify **Mukiele** and **Hall** minutes.
+## 📅 The "Sniper" Strategy (GW25-31)
+
+**The Landscape:**
+*   **DGW26:** Arsenal and Wolves Double.
+*   **BGW31:** Large Blank Gameweek (Arsenal, Wolves, likely others).
+
+**The Tactical Edge:**
+*   **Current Asset Count:** Chris has **3 DGW26 Players** (Gabriel, Timber, Rice).
+*   **The Problem:** These players blank in GW31, and the team needs more DGW coverage to climb.
+*   **The Solution:** **FREE HIT 31.**
+    *   This allows Chris to recruit Wolves players for DGW26 without worrying about the GW31 blank.
+
+---
+
+## 🛠️ GW25/26 Battle Plan
+
+**Objective:** **Maximize DGW26 Aggression.**
+
+### **GW25: The Hold**
+*   **Transfer:** **ROLL**.
+*   **Captain:** **Haaland** (vs LIV).
+
+### **GW26: The Strike (DGW)**
+*   **Transfer 1:** **Lucas Pires/Mukiele ➡️ Toti (WOL)**.
+    *   *Why:* Cheap entry into the Wolves double; solid for CBIT points.
+*   **Transfer 2:** **Igor Jesus ➡️ Mateus Mané (WOL)** (£4.5m).
+    *   *Result:* Chris hits **5 DGW Players** (3 Arsenal + 2 Wolves).
+    *   *Note:* Strand Larsen has moved to Palace; Mané is the new value target.
+*   **Captain:** **Gabriel (ARS)** or **Rice (ARS)**.
+    *   *The Rank Climber's Choice:* High-ceiling Arsenal defenders in a DGW.
+
+### **GW31: The Safety Net**
+*   **Chip:** **FREE HIT (Active).**
+
+## 🛡️ Strategic Checklist
+*   [x] **Squad Audit:** Verified DGW players (Cunha is MUN, no DGW).
+*   [ ] **GW25:** Roll Transfer.
+*   [ ] **GW26:** Execute recruitment of Toti and Mateus Mané.
+*   [ ] **GW31:** Deploy Free Hit.
