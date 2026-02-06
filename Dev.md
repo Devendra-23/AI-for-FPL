@@ -25,10 +25,10 @@
 **GW25 Status:** **Pending Transfer**
 
 - **GK:** **Raya (ARS)**
-- **DEF:** Gabriel (ARS), Van Hecke (BHA), J.Timber (ARS)
+- **DEF:** Gabriel (ARS), Van Hecke (BHA), J.Timber (ARS), Alderete (GET), Gudmundsson (LEE).
 - **MID:** Mbeumo (MUN), B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
 - **FWD:** Haaland (MCI), **D. Calvert-Lewin (LEE)**, Kroupi.Jr (BOU).
-- **Bench:** Dúbravka, Alderete, Gudmundsson.
+- **Bench:** Dúbravka, Kroupi.Jr, Alderete, Gudmundsson.
 
 ### 📝 Transfer Activity Ledger
 - **GW24:** **Saka ➡️ Mbeumo** [DONE].
@@ -53,11 +53,14 @@
 
 ### **The "Diamond Hands DCL" Strategy**
 
-**GW25 Starting XI Strategy (3-5-2)**
-*   **GK:** **Raya**.
-*   **DEF:** **Gabriel**, **Timber**, **Van Hecke**.
-*   **MID:** **Mbeumo**, **Bruno F.**, **Semenyo**, **Enzo**, **Rogers**.
-*   **FWD:** **Haaland (C)**, **Calvert-Lewin**.
+**GW25 Starting XI Strategy (3-5-2 or 4-4-2)**
+*   **GK:** **Raya** (vs SUN, H).
+*   **DEF:** **Gabriel** (vs SUN, H), **Timber** (vs SUN, H), **Van Hecke** (vs CRY, H).
+*   **MID:** **Mbeumo** (vs TOT, H), **Bruno F.** (vs TOT, H), **Semenyo** (vs LIV, A), **Enzo** (vs WOL, A), **Rogers** (vs BOU, A).
+*   **FWD:** **Haaland (C)** (vs LIV, A), **Calvert-Lewin** (vs NFO, H).
+
+**GW25 Bench Options:**
+*   Dúbravka, **Gudmundsson (vs NFO, H)**, **Kroupi Jr (vs AVL, H)**, Alderete (vs FUL, A).
 
 **GW26 Strategy (The Triple Arsenal Wall):**
 *   **DGW Players:** Raya, Gabriel, Timber.
