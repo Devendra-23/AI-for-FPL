@@ -21,68 +21,37 @@
 
 ---
 
-## 🚀 The "Aggressive Pursuit" Strategy (Post-GW24)
+## 🚀 The "Title Charge" Strategy (GW26+)
 
-**GW24 Score:** **68 pts** (Strong performance)
-**League Status:** **8th** - Chasing the leaders.
+**Manager Goal:** **WIN THE LEAGUE.**
+**Current Status:** **4th** (Projected) | **Gap:** ~56 points.
+**The Edge:** Harriet has **Triple Captain, Free Hit, and Bench Boost**. The Leader (Dean Freeman) has **only Wildcard**.
 
-### 📊 Actual Squad Analysis (Verified GW24)
-
-| Position | Player | Team | Verdict | DGW26 | BGW31 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **GK** | **Raya** | ARS | ✅ Core | YES | BLANK |
-| **DEF** | **Gabriel** | ARS | ✅ Core | YES | BLANK |
-| **DEF** | **Mukiele** | SUN | ⚠️ Rotation | NO | YES |
-| **DEF** | **Senesi** | BOU | ⚠️ Low Ceiling | NO | YES |
-| **DEF** | **Murillo** | NFO | ⚠️ Poor Fixt | NO | YES |
-| **MID** | **Mbeumo** | MUN | ✅ Explosive | NO | LIKELY |
-| **MID** | **Bruno F.** | MUN | ✅ Creative | NO | LIKELY |
-| **MID** | **Rice** | ARS | ✅ Steady | YES | BLANK |
-| **MID** | **Enzo** | CHE | ⚠️ Deep Role | NO | LIKELY |
-| **MID** | **Rogers** | AVL | ✅ Value | NO | YES |
-| **FWD** | **Haaland** | MCI | 🤖 The Shield | NO | LIKELY |
-| **Bench** | Dúbravka | BUR | ❌ Bench | NO | YES |
-| **Bench** | **DCL** | LEE | ✅ Hold | NO | YES |
-| **Bench** | Kroupi.Jr | BOU | 📈 Enabler | NO | YES |
-| **Bench** | Van Hecke | BHA | 🛡️ Cover | NO | YES |
+### 🏆 The "Miracle" Path to Victory
+1.  **GW26 (The Swing):** **Triple Captain Gabriel (ARS).**
+    *   *Why:* The leader will likely captain Saka or Haaland. A defensive masterclass from Arsenal (2 Clean Sheets + Goal involvement) is the only way to gain 30+ points in one week.
+2.  **GW31 (The Trap):** **Free Hit.**
+    *   *Why:* The leader has *used* his Free Hit. He will be forced to field a weak team or take hits. Harriet will field a "Perfect XI" of non-blanking players (Liverpool, Man Utd, Newcastle assets).
+3.  **GW37 (The Finish):** **Bench Boost.**
+    *   *Why:* The classic strong finish.
 
 ---
 
-## 📅 The Road to DGW26 (GW25-26)
+## 🛠️ GW25/26 Battle Plan
 
-**Double Gameweek 26 Fixtures:**
-*   **Arsenal:** Brentford (A), Wolves (H)
-*   **Wolves:** Nott'm Forest (A), Arsenal (A)
+**GW25 Status:** **67 Points** (Live). Captain Bruno (20pts) was a masterstroke.
+**GW26 Preview:** **DOUBLE GAMEWEEK (ARS & WOL)**.
 
-**Harriet's Advantage:** Already has Triple Arsenal (Raya, Gabriel, Rice).
-**Decision:** **Diamond Hands DCL.** User preference is to hold DCL over Tolu Arokodare.
+**Transfer Plan (2 FTs Available):**
+1.  **Prioritize:** **Wolves Coverage** (Cheap enablers).
+    *   **Targets:** **Toti (DEF, £4.2m)** or **Tolu Arokodare (FWD, £5.4m)**.
+    *   *Note:* Avoid expensive Wolves assets; the fixtures (NFO/ARS) are tough, but the extra game counts for appearance points.
+2.  **The Move:** 
+    *   Option A: **Mukiele ➡️ Toti**. (Safe, cheap, doubles).
+    *   Option B: **Senesi ➡️ Gabriel** (Wait, already have Gabriel).
+    *   Option C: **Upgrade Midfield**.
 
----
-
-## 🛠️ GW25 Battle Plan
-
-**Objective:** **ROLL THE TRANSFER (The 2-FT Arsenal/Wolves Pivot)**
-
-**Strategy:**
-*   **Decision:** **ROLL the Free Transfer.**
-*   **Why:** Entering **DGW26** with **2 Free Transfers** allows for a high-impact double move (e.g., upgrading Mukiele/Murillo to a Wolves defender like **Toti**).
-*   **DCL Factor:** Since we are holding DCL, we don't need to spend a transfer on a striker this week. DCL has a great fixture vs Nottingham Forest (H) in GW25.
-
-**Starting XI Strategy (3-5-2)**
-*   **GK:** **Raya** (vs SUN, H) - *CS Lockdown.*
-*   **DEF:** **Gabriel**, **Van Hecke**, **Murillo**.
-*   **MID:** **Mbeumo**, **Bruno F.**, **Rice**, **Enzo**, **Rogers**.
-*   **FWD:** **Haaland** (vs LIV, A), **D. Calvert-Lewin** (vs NFO, H).
-*   **Bench:** Mukiele, Senesi, Kroupi Jr, Dúbravka.
-
-### **Captaincy Verdict**
-*   **GW25:** **Gabriel (ARS)** (High Reward) or **Haaland** (Safety).
-    *   *Advice:* **Captain Gabriel**. The "Arsenal Wall" at home to Sunderland is the highest upside play while Haaland visits Anfield.
-*   **GW26:** **Gabriel** (DGW) or **Rice** (DGW).
-
----
-
-## ⚠️ The GW31 Truth
-*   **GOOD NEWS:** **Mbeumo (Man Utd)** and **Bruno F. (Man Utd)** do **NOT** blank in GW31.
-*   **Plan:** Harriet can hold these assets comfortably. The only major blanks are Arsenal and Wolves.
-*   **Strategy:** Use the 2 FTs in GW26 to maximize the double, then use GW27-30 transfers to slowly rotate out one Arsenal defender or deadwood for a BGW31 player.
+**Chip Strategy:**
+*   **GW26:** **TRIPLE CAPTAIN GABRIEL.** (Confirmed).
+*   **GW31:** **FREE HIT.**
+*   **GW37:** **BENCH BOOST.**
