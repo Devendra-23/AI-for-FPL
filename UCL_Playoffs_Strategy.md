@@ -16,7 +16,7 @@ Based on the league phase performance (Goals, Assists, and xG), these are the hi
 | Player | Team | Goals | Assists | Why? |
 | :--- | :--- | :--- | :--- | :--- |
 | **Jude Bellingham** | Real Madrid | 4 | 3 | Big game player; facing a struggling Benfica. |
-| **Florian Wirtz** | Leverkusen | 5 | 2 | Primary creative engine in a high-scoring side. |
+| **Xavi Simons** | Leverkusen | 4 | 5 | Inherited the creative mantle from Wirtz; elite dual-threat. |
 | **Hakan Çalhanoğlu**| Inter Milan | 2 | 4 | Penalties and master of transition play. |
 | **Bradley Barcola** | PSG | 6 | 1 | Elite 1v1 dribbler with high goal conversion. |
 

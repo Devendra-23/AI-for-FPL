@@ -8,7 +8,7 @@ TARGETS = [
     {'name': 'Mbappé', 'pos': (52, 88), 'color': '#ffffff', 'team': 'Real Madrid', 'stats': 'xG: 8.2 | Pts: 48'},
     {'name': 'Lautaro', 'pos': (48, 80), 'color': '#0066b2', 'team': 'Inter Milan', 'stats': 'xG: 6.5 | Pts: 41'},
     {'name': 'Bellingham', 'pos': (70, 70), 'color': '#ffffff', 'team': 'Real Madrid', 'stats': 'xGI: 7.1 | Pts: 44'},
-    {'name': 'Wirtz', 'pos': (30, 72), 'color': '#e32221', 'team': 'Leverkusen', 'stats': 'xG: 5.0 | Pts: 45'},
+    {'name': 'Xavi Simons', 'pos': (30, 72), 'color': '#e32221', 'team': 'Leverkusen', 'stats': 'xG: 4.0 | xA: 5.0'},
     {'name': 'Barcola', 'pos': (85, 75), 'color': '#004170', 'team': 'PSG', 'stats': 'xG: 6.0 | Pts: 42'},
     {'name': 'Hakimi', 'pos': (88, 55), 'color': '#004170', 'team': 'PSG', 'stats': 'xA: 3.2 | Pts: 38'},
     {'name': 'Dimarco', 'pos': (12, 60), 'color': '#0066b2', 'team': 'Inter Milan', 'stats': 'xA: 4.1 | Pts: 42'},

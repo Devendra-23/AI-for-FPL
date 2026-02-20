@@ -20,6 +20,18 @@ USERS = {
     'chris': {
         'id': 4669858,
         'csv': 'Chris_Performance_Tracker.csv'
+    },
+    'adam': {
+        'id': 7456922,
+        'csv': 'Adam_Performance_Tracker.csv'
+    },
+    'tommy': {
+        'id': 348422,
+        'csv': 'Tommy_Performance_Tracker.csv'
+    },
+    'ollie': {
+        'id': 1501765,
+        'csv': 'Ollie_Performance_Tracker.csv'
     }
 }
 
@@ -248,7 +260,7 @@ def update_tracker_csv(filename, gw, total_points, total_xg, total_xa, total_xgc
 def main():
     parser = argparse.ArgumentParser(description='Fetch FPL Gameweek Stats')
     parser.add_argument('gw', type=int, nargs='?', default=20, help='Gameweek number (default: 20)')
-    parser.add_argument('--user', type=str, default='dev', choices=['dev', 'harriet', 'chris'], help='User to fetch stats for (dev, harriet, or chris)')
+    parser.add_argument('--user', type=str, default='dev', choices=['dev', 'harriet', 'chris', 'adam', 'tommy', 'ollie'], help='User to fetch stats for (dev, harriet, chris, adam, tommy, or ollie)')
     
     args = parser.parse_args()
     
