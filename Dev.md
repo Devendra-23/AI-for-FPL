@@ -15,6 +15,7 @@
 8.  **DATA DEEP DIVE:** Check Home vs. Away form splits.
 9.  **TACTICAL INTELLIGENCE:** **Manager Sacking Alert:** Monitor teams with new managers for "Bounce" effect.
 10. **AUTOMATED DATA REFRESH:** Run `fetch_gw_stats.py --user dev` before analysis.
+11. **TEAM NEWS CHECK:** Before any research or transfer suggestion, ALWAYS check the latest team news at https://www.fantasyfootballscout.co.uk/team-news for injuries, suspensions, and press conference updates.
 
 ---
 

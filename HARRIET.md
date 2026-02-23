@@ -13,6 +13,7 @@
 9.  **DATA DEEP DIVE:** Before recommending a transfer, ALWAYS check Home vs. Away form splits and Head-to-Head (H2H) history.
 10. **TACTICAL INTELLIGENCE:** Monitor manager changes.
 11. **AUTOMATED DATA REFRESH:** Run `fetch_gw_stats.py --user harriet`.
+12. **TEAM NEWS CHECK:** Before any research or transfer suggestion, ALWAYS check the latest team news at https://www.fantasyfootballscout.co.uk/team-news for injuries, suspensions, and press conference updates.
 
 **Manager:** Harriet Francis
 **FPL ID:** 2610341
