@@ -19,23 +19,22 @@
 
 ---
 
-## 🏆 Current Squad State (Post-GW24)
+## 🏆 Current Squad State (Post-GW27)
 
-**Current Focus:** **GW25/26 Strategy (DGW Aggression)**
-**GW24 Score:** **49 pts** (Updated)
-**GW25 Status:** **Pending Transfer**
+**Current Focus:** **GW28 Pivot & BGW31 Preparation**
+**GW27 Score:** **45 pts**
+**GW28 Status:** **Transfers Completed (-4 Hit)**
 
 - **GK:** **Raya (ARS)**
-- **DEF:** Gabriel (ARS), Van Hecke (BHA), J.Timber (ARS), Alderete (GET), Gudmundsson (LEE).
+- **DEF:** Gabriel (ARS), **Virgil (LIV)**, **Hill (BOU)**, Alderete (GET), Gudmundsson (LEE).
 - **MID:** Mbeumo (MUN), B.Fernandes (MUN), Semenyo (MCI), Enzo (CHE), Rogers (AVL).
-- **FWD:** Haaland (MCI), **D. Calvert-Lewin (LEE)**, Kroupi.Jr (BOU).
-- **Bench:** Dúbravka, Kroupi.Jr, Alderete, Gudmundsson.
+- **FWD:** Haaland (MCI), **Igor Thiago (BRE)**, D. Calvert-Lewin (LEE).
+- **Bench:** Dúbravka, D. Calvert-Lewin, Alderete, Gudmundsson.
 
 ### 📝 Transfer Activity Ledger
-- **GW24:** **Saka ➡️ Mbeumo** [DONE].
-- **GW25:** **Pickford ➡️ Raya** [DONE].
-- **GW25:** **ROLL TRANSFER** (Decision: Hold DCL over Tolu).
-- **Bank:** **£2.6m ITB** (Current).
+- **GW27:** **ROLL TRANSFER** [DONE].
+- **GW28:** **Kroupi Jr ➡️ Igor Thiago**, **Muñoz ➡️ Virgil**, **Timber ➡️ Hill** (-4 Hit) [DONE].
+- **Bank:** **£2.7m ITB** (Approx).
 
 ---
 
